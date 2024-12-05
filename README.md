@@ -1,7 +1,5 @@
-Berikut adalah versi `README.md` yang telah diperbarui dengan informasi **`.env`** serta pengaturan terkait konfigurasi lingkungan untuk frontend menggunakan React, Redux, dan teknologi lainnya:
 
-```markdown
-# Eduwork Frontend 🎨
+# Eduwork 🎨
 
 Eduwork Frontend is the client-side application for the **Eduwork** platform, built with **React**, **Redux**, **React Icons**, **Bootstrap**, and custom **CSS** for styling. It connects to the **Eduwork Server** backend to provide an interactive user interface for managing courses, user authentication, and more.
 
